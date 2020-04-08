@@ -21,7 +21,7 @@ project.xcworkspace/
 
 # build products
 build/
-*.[oa]
+*.[o]
 
 # Other source repository archive directories (protects when importing)
 .hg
